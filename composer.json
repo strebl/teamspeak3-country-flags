@@ -1,0 +1,12 @@
+{
+	
+    "require": {
+        "illuminate/filesystem": "^5.1",
+        "intervention/image": "^2.3"
+    },
+    "autoload": {
+    	"files": [
+    		"countries.php"
+    	]
+    }
+}
